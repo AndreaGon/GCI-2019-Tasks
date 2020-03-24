@@ -1,7 +1,7 @@
 # GCI-2019-Tasks
 This is the list of tasks I did for GCI 2019
 
-1. Refactor Pitch Drum Widget - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/4529191326842880/
+1. [Refactor Pitch Drum Widget](https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/4529191326842880/)
 2. Refactor Keyboard Widget - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6003978674896896/
 3. Refactor Mode Widget - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6245733794054144/
 4. Re-init option in menu bar for widgets (Status Widget) - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6527897569853440/
