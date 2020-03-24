@@ -2,10 +2,10 @@
 This is the list of tasks I did for GCI 2019
 
 1. [Refactor Pitch Drum Widget](https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/4529191326842880/)
-2. Refactor Keyboard Widget - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6003978674896896/
-3. Refactor Mode Widget - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6245733794054144/
-4. Re-init option in menu bar for widgets (Status Widget) - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6527897569853440/
-5. Re-init option in menu bar for widgets (Pitch Staircase Widget) - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/5824210128076800/
+2. [Refactor Keyboard Widget](https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6003978674896896/)
+3. [Refactor Mode Widget](https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6245733794054144/)
+4. [Re-init option in menu bar for widgets (Status Widget)](https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6527897569853440/)
+5. [Re-init option in menu bar for widgets (Pitch Staircase Widget)](https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/5824210128076800/)
 6. Re-init option in menu bar for widgets (Pitch Slider) - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/6479386323189760/
 7. Re-init option in menu bar for widgets (Rhythm Ruler) - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/4698310221234176/
 8. Re-init option in menu bar for widgets (Tempo Widget) - https://codein.withgoogle.com/archive/2019/organization/5148169659219968/task/5711817282682880/
